@@ -4,9 +4,9 @@
 #include <ESP8266WiFi.h>
 #include <BlynkSimpleEsp8266.h>
 
-char auth[] = "NOHnvrPJPSq6pH-PmSIT13jpbAxZAunD";
-char ssid[] = "MBAHMUKIPER";
-char pass[] = "ahhayas20";
+char auth[] = "Your Auth Token";
+char ssid[] = "Your Wifi";
+char pass[] = "Your Password";
 
 WidgetLED led(V1);
 
